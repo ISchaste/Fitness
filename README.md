@@ -32,3 +32,4 @@ http://127.0.0.1:8000/docs
 
 Видео демонстрация работы системы:
 **https://disk.yandex.ru/i/UTcbR7NBHvzQ9g**
+**https://drive.google.com/file/d/1dKlKH10hKnbKv4zgfODtpXokwSSz6jEz/view?usp=sharing**
