@@ -19,6 +19,12 @@ REST API на базе FastAPI.
 
 ---
 
+## Демонстрационные материалы
+
+- https://disk.yandex.ru/i/UTcbR7NBHvzQ9g
+
+---
+
 ## Запуск
 
 ```
