@@ -62,6 +62,7 @@ http://127.0.0.1:8000/docs
 
 Видео демонстрация работы системы:
 **https://disk.yandex.ru/i/a2uLGF-N6L-uxw**
+**https://drive.google.com/file/d/1T3R-84RNEgEb4I7xMPTdGV6W3MXbN4_X/view?usp=sharing**
 
 
 ## 
